@@ -28,13 +28,23 @@
 ## About Me
 
 ```bash
-┌──(fourier㉿phantom)-[~/ops]
-└─$ cat what_im_building.txt
-I’m building a portfolio that looks like real investigations:
-• Case files written like incident reports (evidence → timeline → findings → remediation)
-• PCAP investigations in Wireshark (baseline vs anomaly, TCP conversations, protocol behavior)
-• Windows artifact checks (Event Logs, Registry, Task Scheduler persistence)
-• Linux lab hardening + log review + firewall controls (VirtualBox environments)
+┌──(fourier☿phantom)-[~/ops]
+└─$ cat shipped.txt
+- CASE-001: Network intrusion investigation (COMPLETE)
+  → 1,000+ packets analyzed, 3 persistence mechanisms documented
+  → Full report at dontaviousellis.com/case-001
+
+┌──(fourier☿phantom)-[~/ops]
+└─$ cat in_progress.txt
+- CASE-002: Linux server compromise investigation
+- Multi-VM home lab (attack simulation + forensics)
+- Detection rules mapped to MITRE ATT&CK
+
+┌──(fourier☿phantom)-[~/ops]
+└─$ cat focus_areas.txt
+- Digital Forensics & Incident Response (DFIR)
+- Network + endpoint forensics (Wireshark, Windows artifacts, Linux logs)
+- SOC operations + detection engineering mindset
 ```
 ---
 
@@ -105,10 +115,10 @@ Documented workflow using NIST SP 800-61 with remediation recommendations
 </td>
 <td width="50%">
 
-### 🧾 CASE-002: Linux Web Server Compromise Investigation
+### 🧾 CASE-002: Linux Web Server Compromise Investigation (IN PROGRESS)
 Linux server incident response case: initial access → privilege escalation → persistence → containment.
 
-**What I’m focusing on:**
+**What this will include:**
 
 Web + auth log review (access/auth logs, journalctl)
 
@@ -118,7 +128,7 @@ Persistence checks (cron/systemd, SSH keys, services)
 
 Concrete remediation plan + hardening checklist
 
-➡️ Read the case report: https://dontaviousellis.com/case-files
+➡️ Coming soon: https://dontaviousellis.com/case-files
 
 
 
@@ -171,7 +181,7 @@ Concrete remediation plan + hardening checklist
 
 ---
 
-##Contribution Activity
+## Contribution Activity
 
 <div align="center">
 
