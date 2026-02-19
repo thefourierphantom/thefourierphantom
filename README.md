@@ -29,61 +29,13 @@
 
 ```bash
 ┌──(fourier㉿phantom)-[~/ops]
-└─$ whoami
-I’m Dontavious Ellis — a sophomore Cybersecurity student at USF (Fourier Phantom).
-
-┌──(fourier㉿phantom)-[~/ops]
-└─$ cat internship_target.txt
-I’m actively looking for an internship in:
-• DFIR / Digital Forensics
-• SOC / Incident Response
-• Network Security / Blue Team
-
-┌──(fourier㉿phantom)-[~/ops]
 └─$ cat what_im_building.txt
 I’m building a portfolio that looks like real investigations:
 • Case files written like incident reports (evidence → timeline → findings → remediation)
 • PCAP investigations in Wireshark (baseline vs anomaly, TCP conversations, protocol behavior)
 • Windows artifact checks (Event Logs, Registry, Task Scheduler persistence)
 • Linux lab hardening + log review + firewall controls (VirtualBox environments)
-
-┌──(fourier㉿phantom)-[~/ops]
-└─$ cat how_i_work.txt
-My rule is simple: if I claim it, I prove it.
-I document every step, capture evidence, and map findings to NIST SP 800-61 + MITRE ATT&CK.
-
-┌──(fourier㉿phantom)-[~/ops]
-└─$ echo "Break ethically. Document everything. Build better defenses."
-Break ethically. Document everything. Build better defenses.
-
 ```
----
-## Current Focus Areas
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Core Areas
-- DFIR Case Files (evidence-driven writeups + remediation)
-- PCAP Investigation (TCP conversations, protocol behavior, anomaly validation)
-- Windows Host Artifacts (Event Logs, Registry, Task Scheduler, persistence checks)
-- Linux Security (hardening, auth/log review, firewall controls)
-- IR Frameworks (NIST SP 800-61 workflow + ATT&CK alignment)
-</td>
-<td width="50%">
-
-### 📚 Currently Learning
-- Repeatable lab workflows (clean steps, consistent evidence capture)
-- Detection mindset (turn findings into rules & controls)
-- Timeline reconstruction (host + network correlation)
-- Network engineering fundamentals (segmentation, services, controls, validation)
-- Threat modeling (how initial access → execution → persistence → impact)
-
-</td>
-</tr>
-</table>
-
----
 ---
 
 ## 🛠️ Skills & Tools
