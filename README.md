@@ -1,10 +1,5 @@
 <div align="center">
 
-  <img src="/banner.png" alt="Fourier Phantom Banner" />
-</div>
-
-<div align="center">
-
 <h1>👋 Hi, I’m Dontavious Ellis</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=20&pause=1200&color=FFFFFF&center=true&vCenter=true&width=760&lines=Cybersecurity+%40+USF;Digital+Forensics;Cybercrime+Investigation;Network+Engineering" />
