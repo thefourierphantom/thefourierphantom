@@ -9,9 +9,6 @@
 <a href="https://github.com/thefourierphantom">
   <img src="https://komarev.com/ghpvc/?username=thefourierphantom&style=for-the-badge&color=0d1117" />
 </a>
-<a href="https://app.hackthebox.com/profile/3181264">
-  <img src="https://img.shields.io/badge/Hack%20The%20Box-Profile-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-</a>
 <a href="https://www.linkedin.com/in/dontavious-ellis/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
